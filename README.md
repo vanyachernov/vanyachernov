@@ -2,8 +2,8 @@
 I am a Member of the Well-Wishers' club
 <div id="bio">
   <ul style="list-style-type:square;">
-    <li>🌿 Hard-working, diligent and efficient</li>
-    <li>🐈 I love coding and am interested in new things</li>
+    <li>🐱 Hard-working, diligent and efficient</li>
+    <li>✨ I love coding and am interested in new things</li>
   </ul>
 </div>
 
