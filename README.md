@@ -12,6 +12,9 @@ I am a Member of the Well-Wishers' club
 ![C#](https://img.shields.io/badge/C%23-5CAC25?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5CAC25?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-5CAC25?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-5CAC25?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-5CAC25?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-5CAC25?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-5CAC25?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Reach out
