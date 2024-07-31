@@ -1,21 +1,22 @@
-### Hi there 👋🏼
-I am a Member of the Well-Wishers' club
-<div id="bio">
-  <ul style="list-style-type:square;">
-    <li>🐱 Hard-working, diligent and efficient</li>
-    <li>✨ I love coding and am interested in new things</li>
-  </ul>
-</div>
+### Hey there 👋🏼
+I'm Vanya Chernov.
 
-### Languages & Tools
-![C++](https://img.shields.io/badge/C++-5CAC25?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5CAC25?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5CAC25?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5CAC25?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-5CAC25?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-5CAC25?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-5CAC25?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5CAC25?style=for-the-badge&logo=mysql&logoColor=white)
+```javascript
+const vanya = {
+  pronouns: "he" | "him",
+  code: [C#, C++, Javascript, Typescript],
+  frameworks: [ASP.NET Core, React],
+  tools: [Entity Framework, Redux, Chakra UI, Selenium WebDriver],
+  languages: ["English", "Ukrainian", "Russian"],
+  architecture: ["monolith"],
+  interests: {
+                developer: "ASP.NET Core Web API",
+                frontend: "React",
+                languages: "C++, C#, Javascript, Typescript"
+              },
+  challenge: "I am hoping to turn my monolith into a microservices masterpiece one day!"
+}
+```
 
 ### Reach out
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanyachernov/)
