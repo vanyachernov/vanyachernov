@@ -6,7 +6,7 @@ const vanya = {
   pronouns: "he" | "him",
   code: [C#, C++, Javascript, Typescript],
   frameworks: [ASP.NET Core, React],
-  tools: [Entity Framework, Redux, Chakra-UI, Selenium WebDriver],
+  tools: [Entity Framework Core, Redux, ChakraUI, Selenium WebDriver],
   languages: ["English", "Ukrainian", "Russian"],
   architecture: ["monolith"],
   interests: {
